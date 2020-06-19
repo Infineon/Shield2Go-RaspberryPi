@@ -13,7 +13,7 @@ An introduction to Infineon's Shield2Go Adapter for Raspberry Pi, including an o
 
 ## Shield2Go libraries
 
-* [Optiga Trust Series Security Shield2Go](https://github.com/Infineon/python-optiga-trust)
-* [IM69D130 Microphone Shield2Go](https://github.com/Infineon/GetStarted_IM69D130_With_RaspberryPi)
-* [TLV493D 3D Magnetic Sensor Shield2Go](https://github.com/Infineon/RaspberryPi_TLV)
-* [DPS Pressure Sensor Series Shield2Go](https://github.com/Infineon/RaspberryPi_DPS)
+[<img src="https://github.com/Infineon/Assets/blob/master/Pictures/s2g_optigatrust_link.png" alt="Optiga Trust Series Security Shield2Go" width="200"/>](https://github.com/Infineon/python-optiga-trust)
+[<img src="https://github.com/Infineon/Assets/blob/master/Pictures/s2g_tlv493d_link.png" alt="TLV493D 3D Magnetic Sensor Shield2Go" width="200"/>](https://github.com/Infineon/RaspberryPi_TLV)
+[<img src="https://github.com/Infineon/Assets/blob/master/Pictures/s2g_dps_link.png" alt="DPS Pressure Sensor Series Shield2Go" width="200"/>](https://github.com/Infineon/RaspberryPi_DPS)
+[<img src="https://github.com/Infineon/Assets/blob/master/Pictures/s2g_im69d_link.png" alt="TLV493D 3D Magnetic Sensor Shield2Go" width="200"/>](https://github.com/Infineon/GetStarted_IM69D130_With_RaspberryPi)
